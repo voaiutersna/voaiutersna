@@ -4,7 +4,7 @@
   <ul align="left" style="list-style: none">
     <summary>
       <h1>
-        🧑‍💻 First year student at KMITL (Software-Engineer)
+        🧑‍💻 First year student at KMITL (Software-Cloud-Engineer)
       </h1>
     </summary>
   </ul>
