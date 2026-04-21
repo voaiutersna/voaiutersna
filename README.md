@@ -27,6 +27,8 @@
      height="28" alt="AWS" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white"
      height="28" alt="Cloudflare" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"
+     height="28" alt="PostgreSQL" style="margin-right: 4px">
 </div>
 
  **<h3 align="left">⚙️ Familiar Languages</h3>**
