@@ -15,7 +15,7 @@
 - 🎓 I'm currently learning At : **School of Information Technology KMITL**
 - 💼 Achieved : **Top 12 Krungsri Hackathon 2025**
 - ☄️ Awarded  : **2nd Runner-up Data Science Challenge @ KMITL Open House 2024**
-- ⛺️ Developer : **ITCAMP22** website / **Pre-Programming 69** Mail-Sender / **SynarfX.com**
+- ⛺️ Developer : **ITCAMP22** website / **Pre-Programming 69** Mail-Sender / **SynarfX.com** / **ERP** System
 
 **<h3 align="left">⚙️ Core Stack</h3>**
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
