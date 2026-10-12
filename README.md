@@ -15,7 +15,8 @@
 - 🎓 I'm currently learning At : **School of Information Technology KMITL GPA:3.81**
 - 💼 Achieved : **Top 12 Krungsri Hackathon 2025 | Top 12 CIIM NEXT GEN CREATOR 2026**
 - ☄️ Awarded  : **2nd Runner-up Data Science Challenge @ KMITL Open House 2024**
-- ⛺️ Developer : **ITCAMP22** website / **Pre-Programming-69** Mail-Sender / **SynarfX.com** / **ERP** System
+- ⛺️ Developer : **ITCAMP22** website / **Pre-Programming-69** Mail-Sender / **TripReadys.com** / **ERP** System
+- 🏫 Teaching & Mentoring : **Teacher Assistant at IT Ladkrabang Open House 2026** / **Mentoring at TobeIT70**
 
 **<h3 align="left">⚙️ Core Stack</h3>**
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
